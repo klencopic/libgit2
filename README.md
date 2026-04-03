@@ -1,4 +1,3 @@
-libgit2 - the Git linkable library
 ==================================
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9609/badge)](https://www.bestpractices.dev/projects/9609)
 
@@ -556,7 +555,7 @@ How Can I Contribute?
 We welcome new contributors!  We have a number of issues marked as
 ["up for grabs"](https://github.com/libgit2/libgit2/issues?q=is%3Aissue+is%3Aopen+label%3A%22up+for+grabs%22)
 and
-["easy fix"](https://github.com/libgit2/libgit2/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3A%22easy+fix%22)
+["easy fix"](https://github.com/libgit2/libgit2/issues?utf8=???&q=is%3Aissue+is%3Aopen+label%3A%22easy+fix%22)
 that are good places to jump in and get started.  There's much more detailed
 information in our list of [outstanding projects](docs/projects.md).
 
